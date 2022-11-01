@@ -21,6 +21,6 @@ After 10+ years working for an international missions organization, I decided it
 ![](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=flat)
 
-![](https://img.shields.io/twitter/follow/JacobVanSchenck?style=social)
+![](https://img.shields.io/twitter/follow/jacobvs_eth?style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobvanschenck)](https://github.com/jacobvanschenck/github-readme-stats)
