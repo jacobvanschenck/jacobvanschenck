@@ -11,15 +11,11 @@ After 10+ years working for an international missions organization, I decided it
 
 ## 🔧 Technologies and Languages 
 
-![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Next.js-FFFFFF?logo=nextdotjs&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=black&style=flat)
-![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=flat)
 
 ![](https://img.shields.io/twitter/follow/jacobvs_eth?style=social)
 
