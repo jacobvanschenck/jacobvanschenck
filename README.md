@@ -18,5 +18,3 @@ After 10+ years working for an international missions organization, I decided it
 ![](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 
 ![](https://img.shields.io/twitter/follow/jacobvs_eth?style=social)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobvanschenck)](https://github.com/jacobvanschenck/github-readme-stats)
