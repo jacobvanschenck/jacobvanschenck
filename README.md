@@ -1,13 +1,15 @@
 ## 👋🏻 Hi, I’m Jacob
 ![Header](https://raw.githubusercontent.com/jacobvanschenck/jacobvanschenck/main/Job%20Title%20Header.png)
 ## 👨🏼‍💻 A little about me
-After 10+ years working for an international missions organization, I decided it was time to come back to my first love of coding. I am passionate about solving complex problems and collaboration.
+Hi 👋🏻 My name is Jacob and I have been building dApps and websites for the past 2 years. After 10+ years working for an international missions organization, I decided it was time to come back to my first love of coding. It's my mission to create innovative applications that revolutionize the way people interact with technology.
 
+🧰 Built multiple scaling products from Design -> Deliver
 
+🤝 Mentored dozens of young people in personal development with clear goals, encouragement and accountability
 
-🌍 I love working with different cultures
+🌍 10+ years of working with different cultures
 
-✈️ I have led multiple international trips of students to over 13 countries
+✈️ Fun Fact: I have led 5 international trips of students to over 13 countries
 
 ## 🔧 Technologies and Languages 
 
@@ -15,6 +17,5 @@ After 10+ years working for an international missions organization, I decided it
 ![](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 
 ![](https://img.shields.io/twitter/follow/jacobvs_eth?style=social)
