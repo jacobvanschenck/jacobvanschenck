@@ -12,7 +12,7 @@ My short story: 10+ years in Christian non profit leadership and international o
 
 🤝 Mentored dozens of young people in personal development with clear goals, encouragement and accountability
 
-🌍 10+ years of working with different cultures
+🌍 10+ years of collaboration with different cultures
 
 ✈️ Fun Fact: I have led 5 international trips of students to over 13 countries
 
