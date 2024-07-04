@@ -1,5 +1,4 @@
 ## 👋🏻 Hi, I’m Jacob
-![Header](https://raw.githubusercontent.com/jacobvanschenck/jacobvanschenck/main/Job%20Title%20Header.png)
 ## 👨🏼‍💻 A little about me
 Hi 👋🏻 My name is Jacob and I have been building dApps and websites for the past 2 years. After 10+ years working for an international missions organization, I decided it was time to come back to my first love of coding. It's my mission to create innovative applications that revolutionize the way people interact with technology.
 
