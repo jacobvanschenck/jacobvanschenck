@@ -1,18 +1,12 @@
 # 👋🏻 Hi, I’m Jacob
 ## 👨🏼‍💻 A little about me
-Hi 👋🏻 My name is Jacob and I have been building dApps and websites for the past 3 years. 
+Hi 👋🏻 My name is Jacob and I have been building web and mobile products for the past 3 years.
 
-My short story: 10+ years in Christian non profit leadership and international outreach coordinator. I then decided it was time to come back to my first love of coding. 
+My short story: 10+ years in Christian non profit leadership and international outreach coordinator. I then decided it was time to come back to my first love of coding.
 
-📈 It's my mission to create innovative applications that revolutionize the way people interact with technology.
+After spending 6 months of teaching myself to write web apps, I joined a local startup in town and began building products to crack the egg of the consumer crypto space.
 
-📱 Developed a Capacitor-based mobile application by collaborating with product design teams, increasing our userbase by over 20,000 users
-
-🌐 Led the development of a web portal an affiliate program using NextJS, resulting in nearly 1,000 new signups
-
-🤝 Mentored dozens of young people in personal development with clear goals, encouragement and accountability
-
-🌍 10+ years of collaboration with different cultures
+I am a passionate, self-driven engineer with keen product sense, collaborating with design teams to build innovative user experiences.
 
 ✈️ Fun Fact: I have led 5 international trips of students to over 13 countries
 
