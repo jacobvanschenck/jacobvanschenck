@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I’m Jacob
 ## 👨🏼‍💻 A little about me
-Hi 👋🏻 My name is Jacob and I have been building web and mobile products for the past 3 years.
+Hi 👋🏻 My name is Jacob and I have been building web and mobile products in React for the past 3 years.
 
 My short story: 10+ years in Christian non profit leadership and international outreach coordinator. I then decided it was time to come back to my first love of coding.
 
